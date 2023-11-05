@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "873876190234",
+    "firebase_url": "https://midterm-8018a-default-rtdb.firebaseio.com",
+    "project_id": "midterm-8018a",
+    "storage_bucket": "midterm-8018a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873876190234:android:3327f2e19ff0f610e08da3",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTHybBsTTKHb7mvUouwoV3TNEibO4wsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873876190234:android:64ed301178e3547de08da3",
+        "android_client_info": {
+          "package_name": "com.example.lab_5_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTHybBsTTKHb7mvUouwoV3TNEibO4wsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
